@@ -45,5 +45,8 @@ Welcome to my GitHub! I'm passionate about how things work under the hood — fr
 
 ---
 
+![snake gif](https://github.com/Vimal290704/Vimal290704/blob/output/github-contribution-grid-snake.svg)
+
+
 > 🚧 *Always learning. Always building. Always curious.*
 
