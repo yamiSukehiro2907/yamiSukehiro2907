@@ -30,6 +30,12 @@ Welcome to my GitHub! I'm passionate about how things work under the hood — fr
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/Vimal290704/Vimal290704/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 Currently Learning
 
 - ☕ Advanced Java & Backend Architecture
@@ -45,8 +51,12 @@ Welcome to my GitHub! I'm passionate about how things work under the hood — fr
 
 ---
 
-![snake gif](https://github.com/Vimal290704/Vimal290704/blob/output/github-contribution-grid-snake.svg)
+## 👀 Visitor Counter
 
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=20826541&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites" border="0" /></a>
+
+---
 
 > 🚧 *Always learning. Always building. Always curious.*
-
