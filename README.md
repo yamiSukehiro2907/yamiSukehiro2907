@@ -28,13 +28,6 @@ Welcome to my GitHub! I'm passionate about how things work under the hood — fr
 ![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vimal290704&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal290704&layout=compact&theme=radical&hide_border=true)
 
----
-
-## 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/Vimal290704/Vimal290704/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🚀 Currently Learning
 
@@ -46,17 +39,8 @@ Welcome to my GitHub! I'm passionate about how things work under the hood — fr
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vimal290704)  
-[![Gmail](https://img.shields.io/badge/Gmail-vimal290704@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimal290704@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/vimal290704](https://www.linkedin.com/in/vimal-kumar-yadav-58a7a5316/))  
+[![Gmail](https://img.shields.io/badge/Gmail-vimal290704@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com)
 
----
-
-## 👀 Visitor Counter
-
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=20826541&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites" border="0" /></a>
-
----
 
 > 🚧 *Always learning. Always building. Always curious.*
