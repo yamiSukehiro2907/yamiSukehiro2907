@@ -2,14 +2,20 @@
 
 # Hi, I'm Vimal 👋
 
-💻 **Java Backend Developer** | 🧠 **DSA Solver** | 🔍 **Systems Enthusiast**
+💻 **Java Backend Developer** | 🧠 **Systems Enthusiast** | ♟️ **Chess & Anime Fan**
 
-Welcome to my GitHub! I'm passionate about how things work under the hood — from the **JVM internals** to how **packets travel** across the internet.
+Welcome to my GitHub! I’m passionate about how things work under the hood—from **JVM internals** to how **packets travel** across the internet. As an aspiring backend developer, I enjoy building efficient, scalable systems and continuously sharpening my problem-solving skills.
 
-- 🔧 Building scalable backend systems with **Java**
-- 📚 Solving **DSA** problems to stay sharp and logical
-- 🧠 Exploring topics in **systems, networking**, and **architecture**
-- 🔜 Soon diving into the world of **AI/ML**
+---
+
+## 🚀 What I'm Doing
+
+- 🔧 Building real-world backend projects in **Java** (**Spring Boot**, REST APIs)
+- 🗄️ Integrating databases like **MySQL**
+- 🧵 Exploring **multithreading** and concurrency
+- 📚 Practicing **DSA** to stay sharp and logical
+- 🛠️ Enjoying **system design** & architecture deep dives
+- 🔜 Soon: Fundamentals of **AI/ML**
 
 ---
 
@@ -28,19 +34,29 @@ Welcome to my GitHub! I'm passionate about how things work under the hood — fr
 ![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vimal290704&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal290704&layout=compact&theme=radical&hide_border=true)
 
+---
 
-## 🚀 Currently Learning
+## 🌱 Currently Learning
 
-- ☕ Advanced Java & Backend Architecture
+- ☕ Advanced Java & backend architecture
+- 🌐 Multithreading & RESTful API best practices
+- 🗃️ Database design & integration
 - 📈 DSA with problem-solving platforms
-- 🤖 Fundamentals of AI/ML (coming soon...)
+- 🤖 Basics of AI/ML (coming soon...)
+
+---
+
+## ✨ About Me
+
+- 🧑‍💻 I love solving complex problems and exploring system design concepts.
+- ♟️ Chess enthusiast, **Clash of Clans** warrior, and anime fan.
+- 🧠 Always eager to learn, share, and contribute to meaningful projects.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/vimal290704](https://www.linkedin.com/in/vimal-kumar-yadav-58a7a5316/))  
-[![Gmail](https://img.shields.io/badge/Gmail-vimal290704@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vimal-kumar-yadav-58a7a5316/)
+[![Gmail](https://img.shields.io/badge/Gmail-vimalyadavkr001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com)
 
 > 🚧 *Always learning. Always building. Always curious.*
