@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Vimal290704 -->
 
-# Hi, I'm Vimal 👋
+# Hi, I'm Vinay 👋
 
 💻 **Java Backend Developer** | 🧠 **Systems Enthusiast** | ♟️ **Chess & Anime Fan**
 
