@@ -56,7 +56,7 @@ Welcome to my GitHub! I’m passionate about how things work under the hood—fr
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-yadav-94491829a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-yadav-94491829a/)
 [![Gmail](https://img.shields.io/badge/Gmail-vimalyadavkr001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayyadavkr001@gmail.com)
 
 > 🚧 *Always learning. Always building. Always curious.*
