@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Vimal290704 -->
 
-# Hi, I'm Vinay 👋
+# Hi,
 
 💻 **Java Backend Developer** | 🧠 **Systems Enthusiast** | ♟️ **Chess & Anime Fan**
 
@@ -31,8 +31,8 @@ Welcome to my GitHub! I’m passionate about how things work under the hood—fr
 
 ## 📊 GitHub Stats
 
-![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinay290704&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay290704&layout=compact&theme=radical&hide_border=true)
+![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamiSukehiro2907&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamiSukehiro2907&layout=compact&theme=radical&hide_border=true)
 
 ---
 
