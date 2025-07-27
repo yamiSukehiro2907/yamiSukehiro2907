@@ -31,7 +31,7 @@ Welcome to my GitHub! I’m passionate about how things work under the hood—fr
 
 ## 📊 GitHub Stats
 
-![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamiSukehiro2907&show_icons=true&theme=radical&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yamiSukehiro2907&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamiSukehiro2907&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -56,7 +56,7 @@ Welcome to my GitHub! I’m passionate about how things work under the hood—fr
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-yadav-94491829a/)
-[![Gmail](https://img.shields.io/badge/Gmail-vinayyadavkr001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayyadavkr001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vimal-kumar-yadav-58a7a5316/)
+[![Gmail](https://img.shields.io/badge/Gmail-vimalyadavkr001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com)
 
 > 🚧 *Always learning. Always building. Always curious.*
