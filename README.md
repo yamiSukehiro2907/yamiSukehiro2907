@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vimalyad_2907) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimal-kumar-yadav-58a7a5316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/VinayYad_2907/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vimalyad_2907) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimal-kumar-yadav-58a7a5316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/VinayYad_2907/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vimalyad2907/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamiSukehiro2907&label=Profile%20views&color=0e75b6&style=flat" alt="yamiSukehiro2907" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamiSukehiro2907&label=Profile%20views&color=0e75b6&style=flat" alt="yamiSukehiro2907" /> </p>
 
