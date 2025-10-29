@@ -27,3 +27,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg)
