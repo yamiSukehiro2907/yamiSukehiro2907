@@ -1,32 +1,121 @@
-# 💫 About Me:
-🔭 I'm currently working on Full-stack applications and System design<br>👯 I'm looking to collaborate on Open Source projects<br>🤝 I'm looking for help with Deep backend topics and System design<br>🌱 I'm currently learning Backend development in Java<br>💬 Ask me about DSA (Data Structures & Algorithms) and Database design<br>⚡ Fun fact: I love anime and I play chess! ♟️🎌
+<h2 align="center">Hey there, I'm <span style="color:#6A5ACD">Vimal</span> 👋</h2>
+<h4 align="center">Full-Stack Developer • System Design Learner • Backend in Java ☕</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamiSukehiro2907&label=Profile%20views&color=0e75b6&style=flat" alt="yamiSukehiro2907" /> </p>
+---
 
-# 📊 GitHub Stats:
+<img align="right" height="240" width="240" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" />
+
+<p align="left">
+I'm a developer passionate about designing and building reliable systems, exploring backend architecture, and solving DSA problems for fun.  
+I enjoy creating full-stack applications, optimizing APIs, and experimenting with modern web technologies.  
+When not coding, I’m either watching anime 🎌, playing chess ♟️, or exploring new dev tools.
+</p>
+
+---
+
+--- 
+<h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamiSukehiro2907&theme=vision_friendly_dark"/>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamiSukehiro2907&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamiSukehiro2907&theme=vision_friendly_dark"/>
+<table>
+  <tr>
+    <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,cpp&theme=dark" alt="languages" />
+    </td>
+  </tr>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yamiSukehiro2907&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yamiSukehiro2907&theme=vision_friendly_dark&utcOffset=8"/>
+  <tr>
+    <td align="left" valign="middle"><strong>⚙️ Backend & Frameworks</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi&theme=dark" alt="backend" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🎨 Frontend</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite&theme=dark" alt="frontend" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🗄️ Databases</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" alt="databases" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>☁️ DevOps & Hosting</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,heroku,nginx,githubactions&theme=dark" alt="devops" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🧮 Data Science / ML</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,opencv&theme=dark" alt="ml" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle"><strong>🧰 Tools & IDEs</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,canva&theme=dark" alt="tools" />
+    </td>
+  </tr>
+</table>
+
+</div>
+---
+
+
+---
+
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="mailto:vimalyadavkr001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  <a href="https://linkedin.com/in/vimal-kumar-yadav-58a7a5316">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="https://leetcode.com/u/VimalYad_2907/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/vimalyad2907/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="28" />
+  </a>
+  <a href="https://instagram.com/vimalyad_2907">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yamiSukehiro2907&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamiSukehiro2907&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<h3 align="center">🐍 Contribution Snake</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vimalyad_2907) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimal-kumar-yadav-58a7a5316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalyadavkr001@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/VimalYad_2907/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vimalyad2907/)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
+---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yamiSukehiro2907/yamiSukehiro2907/output/github-contribution-grid-snake.svg">
-</picture>
+<h4 align="center">💡 Curious? Check out my repos and let’s build something cool together 🚀</h4>
