@@ -13,7 +13,6 @@ When not coding, I’m either watching anime 🎌, playing chess ♟️, or expl
 
 ---
 
---- 
 <h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
@@ -70,8 +69,6 @@ When not coding, I’m either watching anime 🎌, playing chess ♟️, or expl
 </table>
 
 </div>
----
-
 
 ---
 
@@ -101,7 +98,8 @@ When not coding, I’m either watching anime 🎌, playing chess ♟️, or expl
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yamiSukehiro2907&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamiSukehiro2907&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamiSukehiro2907&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1800&include_all_commits=true" height="150" alt="languages graph" />
+
 </div>
 
 ---
